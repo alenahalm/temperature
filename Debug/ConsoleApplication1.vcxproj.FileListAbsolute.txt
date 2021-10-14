@@ -1,0 +1,2 @@
+C:\Users\User\OneDrive\Рабочий стол\HW\ООП\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\User\OneDrive\Рабочий стол\HW\ООП\ConsoleApplication1\Debug\ConsoleApplication1.pdb
